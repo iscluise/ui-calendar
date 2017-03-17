@@ -30,6 +30,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/iscluise/ui-calendar"
+    "url": "git://github.com/iscluise/ui-calendar.git"
   }
 }
